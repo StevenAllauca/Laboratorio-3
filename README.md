@@ -52,7 +52,7 @@ MARCO TEÓRICO (RESUMEN)
 6.Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito de la figura 3.1, obteniendo los valores de los voltajes de nodo. Anote los resultados en la tabla 3.1
 
 ![image](https://user-images.githubusercontent.com/94026628/144425062-5e2a4576-6078-4916-818b-28eabe193d24.png)
-![image](https://user-images.githubusercontent.com/94026628/144425070-01b69a1d-1035-423c-b7cb-4a4c8208a064.png)
+![image](https://user-images.githubusercontent.com/94026628/144465758-03dafd05-d943-4153-bc5a-26dba51918b2.png)
 
 7. Tabla de resultados obtenidos para el circuito de la figura 3.1.
 
